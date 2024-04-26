@@ -1,0 +1,15 @@
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Data\bin\Debug\net8.0\SystemOlympics-Data.deps.json
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Data\bin\Debug\net8.0\SystemOlympics-Data.dll
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Data\bin\Debug\net8.0\SystemOlympics-Data.pdb
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Data\bin\Debug\net8.0\SystemOlympics-Entity.dll
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Data\bin\Debug\net8.0\SystemOlympics-Entity.pdb
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Data\obj\Debug\net8.0\SystemOlympics-Data.csproj.AssemblyReference.cache
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Data\obj\Debug\net8.0\SystemOlympics-Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Data\obj\Debug\net8.0\SystemOlympics-Data.AssemblyInfoInputs.cache
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Data\obj\Debug\net8.0\SystemOlympics-Data.AssemblyInfo.cs
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Data\obj\Debug\net8.0\SystemOlympics-Data.csproj.CoreCompileInputs.cache
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Data\obj\Debug\net8.0\SystemOl.CBB89595.Up2Date
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Data\obj\Debug\net8.0\SystemOlympics-Data.dll
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Data\obj\Debug\net8.0\refint\SystemOlympics-Data.dll
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Data\obj\Debug\net8.0\SystemOlympics-Data.pdb
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Data\obj\Debug\net8.0\ref\SystemOlympics-Data.dll

@@ -1,0 +1,11 @@
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Entity\bin\Debug\net8.0\SystemOlympics-Entity.deps.json
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Entity\bin\Debug\net8.0\SystemOlympics-Entity.dll
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Entity\bin\Debug\net8.0\SystemOlympics-Entity.pdb
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Entity\obj\Debug\net8.0\SystemOlympics-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Entity\obj\Debug\net8.0\SystemOlympics-Entity.AssemblyInfoInputs.cache
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Entity\obj\Debug\net8.0\SystemOlympics-Entity.AssemblyInfo.cs
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Entity\obj\Debug\net8.0\SystemOlympics-Entity.csproj.CoreCompileInputs.cache
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Entity\obj\Debug\net8.0\SystemOlympics-Entity.dll
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Entity\obj\Debug\net8.0\refint\SystemOlympics-Entity.dll
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Entity\obj\Debug\net8.0\SystemOlympics-Entity.pdb
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Entity\obj\Debug\net8.0\ref\SystemOlympics-Entity.dll

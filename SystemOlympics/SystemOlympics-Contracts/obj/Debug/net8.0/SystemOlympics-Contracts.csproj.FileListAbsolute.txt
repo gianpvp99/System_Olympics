@@ -1,0 +1,15 @@
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Contracts\obj\Debug\net8.0\SystemOlympics-Contracts.csproj.AssemblyReference.cache
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Contracts\obj\Debug\net8.0\SystemOlympics-Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Contracts\obj\Debug\net8.0\SystemOlympics-Contracts.AssemblyInfoInputs.cache
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Contracts\obj\Debug\net8.0\SystemOlympics-Contracts.AssemblyInfo.cs
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Contracts\obj\Debug\net8.0\SystemOlympics-Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Contracts\bin\Debug\net8.0\SystemOlympics-Contracts.deps.json
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Contracts\bin\Debug\net8.0\SystemOlympics-Contracts.dll
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Contracts\bin\Debug\net8.0\SystemOlympics-Contracts.pdb
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Contracts\bin\Debug\net8.0\SystemOlympics-Entity.dll
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Contracts\bin\Debug\net8.0\SystemOlympics-Entity.pdb
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Contracts\obj\Debug\net8.0\SystemOl.658B809F.Up2Date
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Contracts\obj\Debug\net8.0\SystemOlympics-Contracts.dll
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Contracts\obj\Debug\net8.0\refint\SystemOlympics-Contracts.dll
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Contracts\obj\Debug\net8.0\SystemOlympics-Contracts.pdb
+C:\Users\Gianpier\Documents\System_Olympic\SystemOlympics\SystemOlympics-Contracts\obj\Debug\net8.0\ref\SystemOlympics-Contracts.dll
